@@ -10,7 +10,6 @@ This project is a simple music library application written in Python. It allows 
 - Sort playlists by song title or artist name ->Krisjor Mema
 - Play songs in the playlist (simulate play) -> Kiara Doraci
 - Save playlists to a file -> Ketrin Xhafa
-- Load playlists from a file -> Ketrin Xhafa
 
 ## Requirements
 - Python 3.x
@@ -55,7 +54,6 @@ Methods:
     -edit_playlist(name): Renames a playlist.
     -delete_playlist(name): Deletes a playlist.
     -save_playlist(name): Saves a playlist to a file.
-    -load_playlist(filename): Loads a playlist from a file.
 
 4. Algorithms and Data Structures
 Algorithms:
